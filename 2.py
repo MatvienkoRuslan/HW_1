@@ -1,4 +1,5 @@
 
+
 class ShoppingCart:
     def __init__(self,*goods):
         self.goods = goods
