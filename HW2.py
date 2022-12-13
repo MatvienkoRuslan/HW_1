@@ -61,5 +61,4 @@ class ShoppingCart:
 apple = Product('apple', 1.8)
 beers = Product('beers', 5.55555555)
 beers2 = Product('beers2', 3.5)
-bread = Product('bread', 3.2)
-apple2 = Product('apple', 1.8)
+
